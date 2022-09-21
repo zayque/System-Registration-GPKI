@@ -1,2 +1,2 @@
-# QR-Scanner-Generator
+# System Registration GPKI with QR Code
 Complete QR Scanner Generator In PHP &amp; MYSQL .. NO Need To Login....
