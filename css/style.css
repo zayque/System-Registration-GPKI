@@ -1,0 +1,59 @@
+.content{
+    width:auto;
+    height:auto;
+    margin-top: 40px;
+    margin-left: 10%;
+}
+.a{
+    border: 1px solid black;
+}
+table{
+    font-size: 21px;
+}
+
+.side-content{
+    width: 75%;
+    height: auto;
+    margin-left: 10%;
+    font-size: 21px;
+    border: 1px solid black;
+}
+
+.b{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+.c{
+    border:1px solid black;
+
+}
+.form{
+    margin-left: 10%;
+    width: 50%;
+
+}
+
+.input{
+    width:50%;
+    margin-left: 5%;
+}
+.n-input{
+    margin-left: 1%;
+}
+.e{
+    border:1px solid black;
+}
+
+.k-content{
+    
+    margin-left: 1%;
+}
+.c-content{
+    
+    margin-left: 4%;
+}
+.btn{
+    margin-left: 25%;
+}
+
