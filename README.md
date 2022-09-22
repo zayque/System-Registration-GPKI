@@ -20,6 +20,8 @@ Username and password for admin page:-
 Username: zayque
 Password: 12345
 
+To use PHP Mailer, dont forget to configure email and password in file index_db.php and index_db2.php
+
 Goodluck :)
 
 AKMAL HAFIZ BIN HASHIM
