@@ -16,6 +16,12 @@ Create database name: sistemborang
 
 Export the SQL File under database "sistemborang"
 
+Username and password for admin page:-
+Username: zayque
+Password: 12345
+
 Goodluck :)
 
 AKMAL HAFIZ BIN HASHIM
+
+
